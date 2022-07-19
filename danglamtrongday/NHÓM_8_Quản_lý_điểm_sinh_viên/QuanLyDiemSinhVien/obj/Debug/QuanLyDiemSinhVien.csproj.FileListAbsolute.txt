@@ -1,0 +1,242 @@
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\linhtinh\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\lam_btl\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\5_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\BIEU MAU\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\MON_HOC\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\8_6\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\Code\CSharp\BAI TAP LON\8_6\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+C:\Users\Admin\Downloads\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.dll
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.dll
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.xml
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\bin\Debug\ExcelDataReader.DataSet.xml
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachMonHocTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DanhSachSinhVienTheoLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.NhapDiemTheoMonHocCuaLop.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.QuanLyDiemSV.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietGiangVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.ThongTinChiTietSinhVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.TimKiemSinhVien.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.CopyComplete
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\danglamtrongday\NHÓM_8_Quản_lý_điểm_sinh_viên\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb

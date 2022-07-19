@@ -1,0 +1,13 @@
+E:\Subject\CSharp\QuanLySV\QuanLySV\bin\Debug\netcoreapp3.1\QuanLySV.exe
+E:\Subject\CSharp\QuanLySV\QuanLySV\bin\Debug\netcoreapp3.1\QuanLySV.deps.json
+E:\Subject\CSharp\QuanLySV\QuanLySV\bin\Debug\netcoreapp3.1\QuanLySV.runtimeconfig.json
+E:\Subject\CSharp\QuanLySV\QuanLySV\bin\Debug\netcoreapp3.1\QuanLySV.runtimeconfig.dev.json
+E:\Subject\CSharp\QuanLySV\QuanLySV\bin\Debug\netcoreapp3.1\QuanLySV.dll
+E:\Subject\CSharp\QuanLySV\QuanLySV\bin\Debug\netcoreapp3.1\QuanLySV.pdb
+E:\Subject\CSharp\QuanLySV\QuanLySV\obj\Debug\netcoreapp3.1\QuanLySV.csprojAssemblyReference.cache
+E:\Subject\CSharp\QuanLySV\QuanLySV\obj\Debug\netcoreapp3.1\QuanLySV.AssemblyInfoInputs.cache
+E:\Subject\CSharp\QuanLySV\QuanLySV\obj\Debug\netcoreapp3.1\QuanLySV.AssemblyInfo.cs
+E:\Subject\CSharp\QuanLySV\QuanLySV\obj\Debug\netcoreapp3.1\QuanLySV.csproj.CoreCompileInputs.cache
+E:\Subject\CSharp\QuanLySV\QuanLySV\obj\Debug\netcoreapp3.1\QuanLySV.dll
+E:\Subject\CSharp\QuanLySV\QuanLySV\obj\Debug\netcoreapp3.1\QuanLySV.pdb
+E:\Subject\CSharp\QuanLySV\QuanLySV\obj\Debug\netcoreapp3.1\QuanLySV.genruntimeconfig.cache

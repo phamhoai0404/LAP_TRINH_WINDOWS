@@ -1,0 +1,7 @@
+D:\MON_HOC\LAP_TRINH_WINDOWS\xin\QuanLySV\bin\Debug\QuanLySV.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\xin\QuanLySV\bin\Debug\QuanLySV.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\xin\QuanLySV\bin\Debug\QuanLySV.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\xin\QuanLySV\obj\Debug\QuanLySV.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\xin\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\xin\QuanLySV\obj\Debug\QuanLySV.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\xin\QuanLySV\obj\Debug\QuanLySV.pdb

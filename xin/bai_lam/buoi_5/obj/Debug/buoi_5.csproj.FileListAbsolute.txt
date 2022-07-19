@@ -1,0 +1,10 @@
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\obj\Debug\buoi_5.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\obj\Debug\buoi_5.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\obj\Debug\buoi_5.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\obj\Debug\buoi_5.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\bin\Debug\buoi_5.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\bin\Debug\buoi_5.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\bin\Debug\buoi_5.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\obj\Debug\buoi_5.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\obj\Debug\buoi_5.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\buoi_5\obj\Debug\buoi_5.Form1.resources

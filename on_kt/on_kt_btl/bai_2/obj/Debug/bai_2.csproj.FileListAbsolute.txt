@@ -1,0 +1,10 @@
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\obj\Debug\bai_2.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\obj\Debug\bai_2.Form1.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\obj\Debug\bai_2.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\obj\Debug\bai_2.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\obj\Debug\bai_2.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\bin\Debug\bai_2.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\bin\Debug\bai_2.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\bin\Debug\bai_2.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\obj\Debug\bai_2.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\on_kt\on_kt_btl\bai_2\obj\Debug\bai_2.pdb

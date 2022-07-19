@@ -1,0 +1,4 @@
+thủ tục thì có 3 loại mới đúng chứ nhỉ: 
+ 	- loại 1:print bình thường rồi insert vào đấy nhỉ 
+	- loại 2: return trả về giá trị các kiểu như là có output đấy 
+	- loại 3: mới thấy này kiểu như là có select bình thường ( làm bài tập có lời giải trong sách trang 50 hay gì đấy mới biết đấy)

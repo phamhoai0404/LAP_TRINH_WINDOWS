@@ -1,0 +1,14 @@
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\bin\Debug\Buoi_3_online2.exe.config
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\bin\Debug\Buoi_3_online2.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\bin\Debug\Buoi_3_online2.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.csprojAssemblyReference.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.Properties.Resources.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.csproj.GenerateResource.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.csproj.CoreCompileInputs.cache
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.exe
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.pdb
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.Form1.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.Form2.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.Form3.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.Main.resources
+D:\MON_HOC\LAP_TRINH_WINDOWS\bai_lam\Buoi_3_online2\obj\Debug\Buoi_3_online2.Form4.resources

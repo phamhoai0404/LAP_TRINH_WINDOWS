@@ -1,0 +1,4 @@
+QA_ là viết bằng các dòng code
+EM_ là dùng tạo bằng các bảng 
+chú ý: nếu tạo view thì các sum(..) as ' tong tien ' phải có tên nếu mà nó không có tên nó sẽ báo lỗi.
+			bình thường thì sum(...) select bình thường thì không cần as cũng được nhưng view thì khác chỗ đó
